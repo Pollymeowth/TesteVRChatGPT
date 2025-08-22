@@ -1,0 +1,25 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.user
+*.unitypackage
+
+# IDE
+.vscode/
+.idea/
+.vs/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Gradle/Android cache
+.gradle/
